@@ -1,4 +1,4 @@
-package br.com.web.service;
+package com.web;
 import org.apache.log4j.Logger;
 
 public class UsandoLog {
