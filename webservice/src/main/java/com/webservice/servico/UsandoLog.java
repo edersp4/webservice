@@ -1,4 +1,4 @@
-package com.web;
+package com.webservice.servico;
 import org.apache.log4j.Logger;
 
 public class UsandoLog {

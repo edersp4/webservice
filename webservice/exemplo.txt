@@ -1,0 +1,4 @@
+<arg0>
+            <token>asdsafdasdf</token>
+            <dataAtualizacao>2012-12-12T00:00:00</dataAtualizacao>
+         </arg0>

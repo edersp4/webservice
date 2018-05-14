@@ -1,4 +1,4 @@
-package com.web;
+package com.webservice.servico;
 
 import javax.xml.ws.Endpoint;
 
